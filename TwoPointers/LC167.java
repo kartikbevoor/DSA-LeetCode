@@ -1,5 +1,4 @@
-package LeetCode;
-
+package TwoPointers;
 // Two Sum: In sorted array
 class LC167 {
     public int[] twoSum(int[] numbers, int target) {

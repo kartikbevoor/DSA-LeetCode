@@ -1,4 +1,4 @@
-package LeetCode;
+package TwoPointers;
 
 // Container With Most Water
 public class LC11 {
